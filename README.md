@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey there, I'm Levan Chargeishvili!
 
-<!--
-**LeoMwyuria/LeoMwyuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** from **Georgia** 🇬🇪, passionate about building modern and efficient applications. I specialize in **React, TypeScript, Next.js, and Firebase**, but I also have experience with **Node.js, Express.js, and NestJS** for backend development.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- 🖥️ Frontend: React, Next.js, TypeScript, Tailwind CSS, Three.js  
+- 🔥 Backend: Node.js, Express.js, NestJS, MongoDB, Firebase  
+- 🌍 Web Scraping: Puppeteer  
+- 🎮 Learning: Lua Script
+- 
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/levan-chargeishvili/)   
+- 🌐 [Portfolio](https://personal-website-rho-pink.vercel.app/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Always open to collaborations & new opportunities!**
